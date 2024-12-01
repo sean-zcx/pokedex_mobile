@@ -38,6 +38,12 @@ dependencies:
   go_router: ^14.6.1
   logger: ^2.5.0
 
+  local_storage: 
+    path: packages/local_storage
+  pokemon_api:
+    path: packages/pokemon_api
+  json_annotation: ^4.9.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
